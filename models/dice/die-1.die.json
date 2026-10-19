@@ -28,8 +28,9 @@
     "seamColor": "#e2b04a"
   },
   "ink": {
-    "color": "#1e0e06",
-    "depth": 0.55
+    "color": "#1c1c22",
+    "material": "wood-ebony",
+    "depth": 0.18
   },
   "font": {
     "family": "Arial",
