@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "rendererVersion": 1,
+  "entries": {
+    "models/dice/die-1.glb": {
+      "inputHash": "4c43ccd27b435adc",
+      "file": "thumbnails/models/dice/die-1.glb.webp",
+      "width": 256,
+      "height": 256
+    }
+  }
+}

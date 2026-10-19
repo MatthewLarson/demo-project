@@ -1,0 +1,25 @@
+{
+  "kind": "die",
+  "material": "metal",
+  "mass": 1.9833,
+  "friction": 0.62,
+  "restitution": 0.32,
+  "originAuthored": true,
+  "metadata": {
+    "dieFaceLayout": "die-d20",
+    "dieSides": 20,
+    "dieFaces": []
+  },
+  "collider": {
+    "mode": "custom",
+    "entries": [
+      {
+        "id": "collider-1",
+        "name": "die-collider",
+        "shape": "convexHull",
+        "source": "baked",
+        "bakedPath": "models/dice/die-1.collider.glb"
+      }
+    ]
+  }
+}

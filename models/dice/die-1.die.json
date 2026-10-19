@@ -1,0 +1,126 @@
+{
+  "format": "diceytable.die",
+  "version": 1,
+  "name": "Die 1",
+  "shape": "die-d20",
+  "body": {
+    "color": "#c9774a",
+    "material": "metal-copper",
+    "surface": "metal",
+    "density": 6.8,
+    "roughness": 0.25,
+    "metalness": 1,
+    "opacity": 1,
+    "pattern": {
+      "kind": "none",
+      "color": "#202020",
+      "scale": 0.5,
+      "amount": 0.5
+    },
+    "overlays": {
+      "scratches": 0,
+      "bumps": 0,
+      "rust": 0,
+      "tarnish": 0.2,
+      "cracks": 0,
+      "kintsugi": 0
+    },
+    "seamColor": "#e2b04a"
+  },
+  "ink": {
+    "color": "#1e0e06",
+    "depth": 0.55
+  },
+  "font": {
+    "family": "Arial",
+    "weight": "bold",
+    "italic": false
+  },
+  "rounding": 0.2,
+  "glyphScale": 0.62,
+  "pipScale": 1,
+  "sixNineMarker": "underline",
+  "textureSize": 1024,
+  "faces": [
+    {
+      "value": 1,
+      "content": "pips"
+    },
+    {
+      "value": 2,
+      "content": "pips"
+    },
+    {
+      "value": 3,
+      "content": "pips"
+    },
+    {
+      "value": 4,
+      "content": "pips"
+    },
+    {
+      "value": 5,
+      "content": "pips"
+    },
+    {
+      "value": 6,
+      "content": "pips"
+    },
+    {
+      "value": 7,
+      "content": "pips"
+    },
+    {
+      "value": 8,
+      "content": "pips"
+    },
+    {
+      "value": 9,
+      "content": "pips"
+    },
+    {
+      "value": 10,
+      "content": "pips"
+    },
+    {
+      "value": 11,
+      "content": "pips"
+    },
+    {
+      "value": 12,
+      "content": "pips"
+    },
+    {
+      "value": 13,
+      "content": "pips"
+    },
+    {
+      "value": 14,
+      "content": "pips"
+    },
+    {
+      "value": 15,
+      "content": "pips"
+    },
+    {
+      "value": 16,
+      "content": "pips"
+    },
+    {
+      "value": 17,
+      "content": "pips"
+    },
+    {
+      "value": 18,
+      "content": "pips"
+    },
+    {
+      "value": 19,
+      "content": "pips"
+    },
+    {
+      "value": 20,
+      "content": "pips"
+    }
+  ]
+}
